@@ -5,6 +5,7 @@
 # 运行架构
 在php5.6以上，apache,mysql5.6下配置，建议使用phpstudy,宝塔面板，wamp这样的php套件，减少配置的难度
 
+<<<<<<< HEAD
 # 配置环境
 Apache下，在public目录.htaccess内容（仅供参考）
 
@@ -81,3 +82,11 @@ Mail: pearphp@qq.com
 欢迎大家clone，交流使用。。。 
 
 本文本来自markdown编辑器：https://www.mdeditor.com
+=======
+# 包括模块
+内部收文，外部发文，新闻，文件共享，通讯录，公告，个人日程，日常印章使用，固定资产管理，请休假管理。
+
+# 联系方式
+QQ: 316 7411 308
+Mail: pearphp@qq.com
+>>>>>>> 02799709bf20d751bd38b524652907b4779f07e5
